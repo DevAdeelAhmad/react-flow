@@ -6,7 +6,7 @@ const initialNodes: Node[] = [
   {
     id: '1',
     data: {
-      label: "Node 1"
+      lab: "Node 1"
     },
     position: { x: 0, y: 0 }
   },
